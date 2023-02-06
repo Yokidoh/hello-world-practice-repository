@@ -5,6 +5,8 @@ public class HelloWorld
    {
            System.out.println("Hello World!");
          
+         //practice work
+         
          String name = "George Washington";
          
          System.out.println(name);
